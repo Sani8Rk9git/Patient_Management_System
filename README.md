@@ -108,6 +108,6 @@ This project is intended for learning and demonstration purposes. Use dummy pati
 
 **Sanidhya Sharma**
 
-- Github: [Sani8Rk9git](https://github.com/Sani8Rk9git/Patient_Management_System)
-- LinkedIn: [Sanidhya Sharma](www.linkedin.com/in/sanidhya-sharma-2354303a8)
+- Github: [Sani8Rk9git](https://github.com/Sani8Rk9git)
+- LinkedIn: [Sanidhya Sharma](https://www.linkedin.com/in/sanidhya-sharma-2354303a8)
 
