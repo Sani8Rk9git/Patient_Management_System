@@ -55,7 +55,7 @@ Patient_Management_System/
 
 1. ### Clone the repository
 ```
-git clone 
+git clone https://github.com/Sani8Rk9git/Patient_Management_System.git
 cd Patient_Management_System
 ```
 
